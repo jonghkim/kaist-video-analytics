@@ -12,7 +12,7 @@ This is a repository for the Intelligent Video Analytics with Deep Learning at K
     - [Module 0. Introduction](ppt/Module0_Introduction.pdf)
     - [Module 1. Video Analytics and Social Science Research](ppt/Module1_Video_Analytics_and_Social_Science_Research.pdf)
     - [Module 2. Underlying Mechanisms of Deep Learning](ppt/Module2_Underlying_Mechanisms_of_Deep_Learning.pdf)
-    - [Module 3. Detecting Labels in Your Own Video Data](ppt/Module3_Detecting_Labels_in_Your_Own_Video_Data)
+    - [Module 3. Detecting Labels in Your Own Video Data](ppt/Module3_Detecting_Labels_in_Your_Own_Video_Data.pdf)
 
 - For practice
     - [KAIST_Video_Analytics.ipynb](code/KAIST_Video_Analytics.ipynb)
