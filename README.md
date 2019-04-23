@@ -15,7 +15,7 @@ This is a repository for the Intelligent Video Analytics with Deep Learning at K
     - [Module 3. Detecting Labels in Your Own Video Data](ppt/Module3_Detecting_Labels_in_Your_Own_Video_Data.pdf)
 
 - For practice
-    - [KAIST_Video_Analytics.ipynb](code/KAIST_Video_Analytics.ipynb)
+    - [KAIST_Video_Analytics.ipynb](https://bit.ly/2IOPeuI)
 
 ## For Citation
 ```
